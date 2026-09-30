@@ -2,6 +2,8 @@
 
 A lightweight real-time collaboration platform for small teams: Kanban tasks, a shared whiteboard, task comments, and low-bandwidth 1-to-1 task calls.
 
+For a beginner-friendly production deployment using MongoDB Atlas, Render, and Vercel, read [DEPLOYMENT.md](./DEPLOYMENT.md).
+
 ## Included
 
 - JWT authentication and protected, rate-limited APIs
